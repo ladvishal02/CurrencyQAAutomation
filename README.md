@@ -2,6 +2,10 @@
 
 This repository is for running automated tests for https://open.er-api.com/v6/latest/USD 
 
+# Pre requisite
+- Java
+- Maven
+
 # Libraries Used
 
 - RestAssured
